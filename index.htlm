@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Minhas Notas Online</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f9;
+      color: #333;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      border-radius: 10px;
+      background: white;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #2c3e50;
+      text-align: center;
+    }
+    .nota {
+      padding: 15px;
+      margin: 15px 0;
+      border-left: 5px solid #3498db;
+      background: #ecf6ff;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>📒 Minhas Notas</h1>
+
+  <div class="nota">
+    <h2>Nota 1</h2>
+    <p>Essa é a primeira anotação. Pode conter texto, links e até listas.</p>
+  </div>
+
+  <div class="nota">
+    <h2>Nota 2</h2>
+    <p>Aqui vai outra anotação.</p>
+    <ul>
+      <li>Tópico 1</li>
+      <li>Tópico 2</li>
+    </ul>
+  </div>
+
+  <div class="nota">
+    <h2>Nota 3</h2>
+    <p>Mais uma nota de exemplo.</p>
+  </div>
+</body>
+</html>
