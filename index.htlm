@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+<!DOCTYPE htlm>
+<htlm lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <title>Minhas Notas Online</title>
@@ -50,4 +50,4 @@
     <p>Mais uma nota de exemplo.</p>
   </div>
 </body>
-</html>
+</htlm>
